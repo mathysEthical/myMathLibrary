@@ -1,0 +1,1 @@
+from mymathlibrary.load import *
